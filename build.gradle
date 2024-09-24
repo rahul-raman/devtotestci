@@ -26,4 +26,5 @@ dependencies {
 
 test {
     useTestNG()
+    //groups = System.getProperty("groups") // Allow filtering tests by group
 }

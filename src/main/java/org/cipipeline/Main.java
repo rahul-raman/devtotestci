@@ -19,4 +19,9 @@ public class Main {
     {
         System.out.println("feature 1 1st round");
     }
+
+    public void feature2()
+    {
+        System.out.println("feature 2 1st round");
+    }
 }
