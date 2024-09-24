@@ -22,6 +22,6 @@ public class Main {
 
     public void feature2()
     {
-        System.out.println("feature 2 1st round");
+        System.out.println("feature 2 2nd round");
     }
 }

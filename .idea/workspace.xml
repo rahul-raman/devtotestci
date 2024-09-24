@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b1b2b27-e780-42c4-b591-018851706978" name="Changes" comment="initial dev project to setup ci pipeline">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cipipeline/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cipipeline/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725990624707</updated>
-      <workItem from="1727167062870" duration="2291000" />
+      <workItem from="1727167062870" duration="2910000" />
     </task>
     <task id="LOCAL-00001" summary="initial dev project to setup ci pipeline">
       <option name="closed" value="true" />
